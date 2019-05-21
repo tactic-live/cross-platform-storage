@@ -1,6 +1,6 @@
 {
   "name": "cross-platform-storage",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "main": "dist/cross-platform-storage.js",
   "scripts": {
@@ -16,7 +16,7 @@
     "url": "git+https://github.com/tactic-live/cross-platform-storage.git"
   },
   "author": "landfei",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/tactic-live/cross-platform-storage/issues"
   },

@@ -63,3 +63,8 @@ storage.getItem('foo').then(function(result){
 });
 // console 'foo'
 ```
+
+## Change Log
+
+### 1.0.1
+change license to MIT
